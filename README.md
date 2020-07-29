@@ -4,11 +4,11 @@ I'm 24 years old, born in Rio de Janeiro - Brazil ⛱ 🏖, and I'm majoring �
 
 <div>
   <a href="https://angular.io/">
-    <img href="https://angular.io/" src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="200">
+    <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="200">
   </a>
    &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://angular.io/">
-    <img href="https://flutter.dev/" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="200">
+  <a href="https://flutter.dev/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="200">
   </a>
 </div>
 
