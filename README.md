@@ -1,6 +1,6 @@
 # Hi there 🖖🏻
 
-I'm 24 years old, born in Rio de Janeiro - Brazil ⛱ 🏖, and I'm majoring 👨🏻‍🎓 in Computer Engineering at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - campus Bambuí 👨🏻‍💻. My graduation depends only of to present my final course work 👨🏻‍🏫 and fulfill mandatory internship hours 🤓. During my graduation, I had contact with several technologies, but I am currently focused on learning 👇🏻👇🏻👇🏻
+I'm 24 years old, born in Rio de Janeiro - Brazil ⛱ 🏖, and I'm majoring 👨🏻‍🎓 in Computer Engineering at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - campus Bambuí 👨🏻‍💻. My graduation depends only of to present my final course work 👨🏻‍🏫 and fulfill mandatory internship hours 🤓. During my graduation, I had contact with several technologies, but I am currently focused on learning <br>👇🏻👇🏻👇🏻
 
 <div>
   <a href="https://angular.io/">
